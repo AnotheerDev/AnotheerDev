@@ -17,9 +17,6 @@ J'ai acquis ces compétences grâce à des projets personnels, à des cours en l
 ## Projets 💼
 Voici quelques-uns de mes projets auxquels j'ai contribué :
 
-- [Projet 1](lien-vers-le-projet) 🚀 - Description du projet et rôle que j'ai joué.
-- [Projet 2](lien-vers-le-projet) 🚀 - Description du projet et rôle que j'ai joué.
-- [Projet 3](lien-vers-le-projet) 🚀 - Description du projet et rôle que j'ai joué.
 
 N'hésitez pas à consulter ces projets pour avoir une idée de mon travail.
 
