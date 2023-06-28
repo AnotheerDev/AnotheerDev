@@ -21,7 +21,7 @@ N'hésitez pas à consulter ces projets pour avoir une idée de mon travail.
 ## Contact 📫
 - Adresse e-mail : leger.julien94@gmail.com ✉️
 - Site web personnel : en cours de production 🌐
-- LinkedIn : Julien Léger 💼
+- LinkedIn : Julien Léger - https://www.linkedin.com/in/julien-l%C3%A9ger-aa1a79261/ 💼
 
 N'hésitez pas à me contacter si vous avez des questions, des opportunités de collaboration ou simplement pour discuter du développement web et des technologies.
 
