@@ -30,4 +30,4 @@ Je suis toujours à la recherche de nouvelles occasions d'apprendre et de grandi
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anotheerdev&show_icons=true&locale=en&layout=compact" alt="anotheerdev" /></p>
-![AnotheerDev's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnotheerDev&theme=radical)
+[AnotheerDev's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnotheerDev&theme=radical)
