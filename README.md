@@ -27,3 +27,5 @@ N'hésitez pas à me contacter si vous avez des questions, des opportunités de 
 
 Je suis toujours à la recherche de nouvelles occasions d'apprendre et de grandir en tant que développeur web. Merci de visiter mon profil GitHub ! 😊
 
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
