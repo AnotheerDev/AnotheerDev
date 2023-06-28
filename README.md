@@ -27,4 +27,6 @@ N'hésitez pas à me contacter si vous avez des questions, des opportunités de 
 
 Je suis toujours à la recherche de nouvelles occasions d'apprendre et de grandir en tant que développeur web. Merci de visiter mon profil GitHub ! 😊
 
+
+![AnotheerDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnotheerDev&show_icons=true&theme=radical)
 ![AnotheerDev's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnotheerDev&theme=radical)
