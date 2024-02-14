@@ -4,7 +4,8 @@
 Je suis un apprenant développeur web et web mobile passionné par la création d'applications web performantes et conviviales. J'ai une solide expérience dans les domaines suivants :
 
 - Langages de programmation : **PHP**, **JavaScript**
-- Frameworks : **Symfony**, **Bootstrap**
+- Frameworks : **Symfony**, **Bootstrap**, **TailwindCss**
+- Librairie : **React**
 - Front-end : **HTML**, **CSS**
 - Outils de conception : **Figma**
 - Base de données : **MySQL**
